@@ -13,6 +13,7 @@
 *://mobile.twitter.com/search?*
 *://note.com/hashtag/*
 *://qiita.com/tags/*
+*://search.inside-games.jp/*
 *://search.kakaku.com/*
 *://search.rakuten.co.jp/*
 *://syosetu.org/search/*
