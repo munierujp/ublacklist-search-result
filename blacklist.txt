@@ -12,7 +12,6 @@
 *://search.kakaku.com/*
 *://search.rakuten.co.jp/*
 *://search.yahoo.co.jp/*
-*://shopping.yahoo.co.jp/search/*
 *://syosetu.org/search/*
 *://twitter.com/hashtag/*
 *://twitter.com/search?*
