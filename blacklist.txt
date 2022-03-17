@@ -4,3 +4,4 @@
 *://beauty.hotpepper.jp/keyword/*
 *://kakaku.com/search_results/*
 *://news.yahoo.co.jp/search/*
+*://shopping.yahoo.co.jp/search/*
