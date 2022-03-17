@@ -3,6 +3,7 @@
 *://auctions.yahoo.co.jp/search/*
 *://b.hatena.ne.jp/search/*
 *://beauty.hotpepper.jp/keyword/*
+*://ch.nicovideo.jp/search/*
 *://kakaku.com/search_results/*
 *://news.yahoo.co.jp/search/*
 *://qiita.com/tags/*
