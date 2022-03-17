@@ -24,6 +24,8 @@
 *://www.npmjs.com/search?*
 *://www.pixiv.net/tags/*
 *://www.tempstaff.co.jp/jbch/keyword/*
+*://www.tiktok.com/discover/*
+*://www.tiktok.com/tag/*
 *://www.tumblr.com/tagged/*
 *://www.youtube.com/hashtag/*
 *://zozo.jp/search/*
