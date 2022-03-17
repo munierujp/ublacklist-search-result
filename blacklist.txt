@@ -11,3 +11,4 @@
 *://www.nicovideo.jp/tag/*
 *://www.npmjs.com/search?*
 *://www.pixiv.net/tags/*
+*://www.tumblr.com/tagged/*
