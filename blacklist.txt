@@ -5,6 +5,7 @@
 *://beauty.hotpepper.jp/keyword/*
 *://ch.nicovideo.jp/search/*
 *://d.hatena.ne.jp/keyword/*
+*://janestyle.net/search/*
 *://kakaku.com/search_results/*
 *://maho.jp/search?*
 *://mobile.twitter.com/hashtag/*
