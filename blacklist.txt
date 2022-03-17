@@ -17,8 +17,6 @@
 *://twitter.com/hashtag/*
 *://twitter.com/search?*
 *://www.bing.com/search?*
-*://www.google.co.jp/search?*
-*://www.google.com/search?*
 *://www.nicovideo.jp/tag/*
 *://www.npmjs.com/search?*
 *://www.pixiv.net/tags/*
