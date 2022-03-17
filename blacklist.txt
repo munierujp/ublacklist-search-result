@@ -1,2 +1,3 @@
 *://auctions.yahoo.co.jp/search/search?*
+*://b.hatena.ne.jp/search/*
 *://beauty.hotpepper.jp/keyword/*
