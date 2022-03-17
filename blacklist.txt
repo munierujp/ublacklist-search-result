@@ -20,6 +20,7 @@
 *://syosetu.org/search/*
 *://twitter.com/hashtag/*
 *://twitter.com/search?*
+*://wowma.jp/keyword/*
 *://www.nicovideo.jp/tag/*
 *://www.npmjs.com/search?*
 *://www.pixiv.net/tags/*
