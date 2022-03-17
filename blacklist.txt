@@ -6,6 +6,7 @@
 *://ch.nicovideo.jp/search/*
 *://kakaku.com/search_results/*
 *://news.yahoo.co.jp/search/*
+*://note.com/hashtag/*
 *://qiita.com/tags/*
 *://search.kakaku.com/*
 *://search.yahoo.co.jp/*
