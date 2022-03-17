@@ -6,6 +6,8 @@
 *://ch.nicovideo.jp/search/*
 *://d.hatena.ne.jp/keyword/*
 *://kakaku.com/search_results/*
+*://mobile.twitter.com/hashtag/*
+*://mobile.twitter.com/search?*
 *://note.com/hashtag/*
 *://qiita.com/tags/*
 *://search.kakaku.com/*
