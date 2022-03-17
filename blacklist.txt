@@ -22,3 +22,4 @@
 *://www.npmjs.com/search?*
 *://www.pixiv.net/tags/*
 *://www.tumblr.com/tagged/*
+*://zozo.jp/search/*
