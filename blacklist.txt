@@ -21,6 +21,7 @@
 *://www.nicovideo.jp/tag/*
 *://www.npmjs.com/search?*
 *://www.pixiv.net/tags/*
+*://www.tempstaff.co.jp/jbch/keyword/*
 *://www.tumblr.com/tagged/*
 *://www.youtube.com/hashtag/*
 *://zozo.jp/search/*
