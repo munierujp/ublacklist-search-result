@@ -12,3 +12,7 @@ https://iorate.github.io/ublacklist/subscribe?name=ublacklist-search-result&url=
 
 - その情報について知りたいから検索しているのに、検索結果に別のサイトの検索結果ページが表示されるようなたらい回し状態は本末転倒
 - そのサイトの検索結果が見たければ、最初からそのサイトで検索する
+
+## 追加基準
+
+- URLに含まれる検索キーワードによって、ページが動的に生成される
