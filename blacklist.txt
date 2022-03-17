@@ -9,6 +9,7 @@
 *://note.com/hashtag/*
 *://qiita.com/tags/*
 *://search.kakaku.com/*
+*://search.rakuten.co.jp/*
 *://search.yahoo.co.jp/*
 *://shopping.yahoo.co.jp/search/*
 *://syosetu.org/search/*
