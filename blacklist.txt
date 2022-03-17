@@ -5,3 +5,4 @@
 *://kakaku.com/search_results/*
 *://news.yahoo.co.jp/search/*
 *://shopping.yahoo.co.jp/search/*
+*://syosetu.org/search/*
