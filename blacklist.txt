@@ -24,6 +24,7 @@
 *://twstalker.com/hashtag/*
 *://wowma.jp/keyword/*
 *://www.nicovideo.jp/tag/*
+*://www.nicozon.net/tag/*
 *://www.npmjs.com/search?*
 *://www.pixiv.net/tags/*
 *://www.tempstaff.co.jp/jbch/keyword/*
