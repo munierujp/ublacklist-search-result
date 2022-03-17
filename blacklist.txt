@@ -1,4 +1,5 @@
 *://7gogo.jp/hashtags/*
+*://7net.omni7.jp/search/*
 *://anond.hatelabo.jp/keyword/*
 *://auctions.yahoo.co.jp/search/*
 *://b.hatena.ne.jp/search/*
