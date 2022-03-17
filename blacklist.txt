@@ -2,3 +2,4 @@
 *://auctions.yahoo.co.jp/search/*
 *://b.hatena.ne.jp/search/*
 *://beauty.hotpepper.jp/keyword/*
+*://kakaku.com/search_results/*
