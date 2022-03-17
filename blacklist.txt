@@ -12,6 +12,7 @@
 *://syosetu.org/search/*
 *://twitter.com/hashtag/*
 *://twitter.com/search?*
+*://www.bing.com/search?*
 *://www.nicovideo.jp/tag/*
 *://www.npmjs.com/search?*
 *://www.pixiv.net/tags/*
