@@ -23,6 +23,7 @@
 *://twitter.com/search?*
 *://twstalker.com/hashtag/*
 *://wowma.jp/keyword/*
+*://www.instagram.com/explore/tags/*
 *://www.nicovideo.jp/tag/*
 *://www.nicozon.net/tag/*
 *://www.npmjs.com/search?*
