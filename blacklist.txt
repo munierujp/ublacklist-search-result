@@ -8,3 +8,4 @@
 *://search.kakaku.com/*
 *://shopping.yahoo.co.jp/search/*
 *://syosetu.org/search/*
+*://www.nicovideo.jp/tag/*
