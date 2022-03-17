@@ -11,6 +11,7 @@
 *://maho.jp/search?*
 *://mobile.twitter.com/hashtag/*
 *://mobile.twitter.com/search?*
+*://nicosearch.info/nicotagsearch.php?*
 *://note.com/hashtag/*
 *://qiita.com/tags/*
 *://search.inside-games.jp/*
