@@ -9,3 +9,4 @@
 *://shopping.yahoo.co.jp/search/*
 *://syosetu.org/search/*
 *://www.nicovideo.jp/tag/*
+*://www.pixiv.net/tags/*
