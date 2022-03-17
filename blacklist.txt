@@ -4,6 +4,7 @@
 *://b.hatena.ne.jp/search/*
 *://beauty.hotpepper.jp/keyword/*
 *://ch.nicovideo.jp/search/*
+*://d.hatena.ne.jp/keyword/*
 *://kakaku.com/search_results/*
 *://note.com/hashtag/*
 *://qiita.com/tags/*
