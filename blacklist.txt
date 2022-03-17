@@ -9,4 +9,5 @@
 *://shopping.yahoo.co.jp/search/*
 *://syosetu.org/search/*
 *://www.nicovideo.jp/tag/*
+*://www.npmjs.com/search?*
 *://www.pixiv.net/tags/*
