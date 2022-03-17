@@ -8,6 +8,7 @@
 *://search.kakaku.com/*
 *://shopping.yahoo.co.jp/search/*
 *://syosetu.org/search/*
+*://twitter.com/hashtag/*
 *://www.nicovideo.jp/tag/*
 *://www.npmjs.com/search?*
 *://www.pixiv.net/tags/*
