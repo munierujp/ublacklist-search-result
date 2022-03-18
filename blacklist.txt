@@ -31,6 +31,7 @@
 *://twstalker.com/hashtag/*
 *://wowma.jp/keyword/*
 *://www.askul.co.jp/ksearch/*
+*://www.felissimo.co.jp/keyword/*
 *://www.hmv.co.jp/search/*
 *://www.instagram.com/explore/tags/*
 *://www.nicovideo.jp/tag/*
