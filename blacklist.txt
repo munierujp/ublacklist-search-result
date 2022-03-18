@@ -21,6 +21,7 @@
 *://search.kakaku.com/*
 *://search.rakuten.co.jp/*
 *://seiga.nicovideo.jp/tag/*
+*://suzuri.jp/search?*
 *://syosetu.org/search/*
 *://tsutaya.tsite.jp/search/*
 *://twitter.com/hashtag/*
