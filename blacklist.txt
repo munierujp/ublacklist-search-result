@@ -3,6 +3,7 @@
 *://anond.hatelabo.jp/keyword/*
 *://b.hatena.ne.jp/search/*
 *://beauty.hotpepper.jp/keyword/*
+*://buhitter.com/search?*
 *://ch.nicovideo.jp/search/*
 *://d.hatena.ne.jp/keyword/*
 *://janestyle.net/search/*
