@@ -30,6 +30,7 @@
 *://twstalker.com/hashtag/*
 *://wowma.jp/keyword/*
 *://www.askul.co.jp/ksearch/*
+*://www.hmv.co.jp/search/*
 *://www.instagram.com/explore/tags/*
 *://www.nicovideo.jp/tag/*
 *://www.nicozon.net/tag/*
