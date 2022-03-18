@@ -20,6 +20,7 @@
 *://search.inside-games.jp/*
 *://search.kakaku.com/*
 *://search.rakuten.co.jp/*
+*://search.vector.co.jp/*
 *://seiga.nicovideo.jp/tag/*
 *://suzuri.jp/search?*
 *://syosetu.org/search/*
