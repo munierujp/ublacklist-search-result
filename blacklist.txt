@@ -19,6 +19,7 @@
 *://search.inside-games.jp/*
 *://search.kakaku.com/*
 *://search.rakuten.co.jp/*
+*://seiga.nicovideo.jp/tag/*
 *://syosetu.org/search/*
 *://tsutaya.tsite.jp/search/*
 *://twitter.com/hashtag/*
