@@ -15,7 +15,7 @@ https://iorate.github.io/ublacklist/subscribe?name=ublacklist-search-result&url=
 
 ## 方針
 
-- `https://example.com/?q=<検索ワード>`のようにURL内に検索ワードが含まれるページを対象とする
+- `https://example.com/search/?q=<検索ワード>`や`https://example.com/hashtag/<ハッシュタグ>`のように、URL内に検索ワードのようなものが含まれ、検索結果ページが動的に生成されるようなサイトを対象とする
 - 私が普段検索していて遭遇次第追加していく
 
 ## 例
