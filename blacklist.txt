@@ -1,6 +1,7 @@
 *://7gogo.jp/hashtags/*
 *://7net.omni7.jp/search/*
 *://anond.hatelabo.jp/keyword/*
+*://auctions.yahoo.co.jp/closedsearch/*
 *://b.hatena.ne.jp/search/*
 *://beauty.hotpepper.jp/keyword/*
 *://buhitter.com/search?*
