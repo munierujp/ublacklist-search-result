@@ -15,6 +15,7 @@
 *://mobile.twitter.com/hashtag/*
 *://mobile.twitter.com/search?*
 *://music.dmkt-sp.jp/search/*
+*://news.yahoo.co.jp/search?*
 *://nicosearch.info/nicotagsearch.php?*
 *://note.com/hashtag/*
 *://qiita.com/tags/*
