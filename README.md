@@ -12,3 +12,7 @@ https://iorate.github.io/ublacklist/subscribe?name=ublacklist-search-result&url=
 
 - その情報について知りたいから検索しているのに、別のサイトの検索結果ページに飛ばされるようなたらい回し状態は望ましくない
 - そのサイトの検索結果が見たければ、最初からそのサイトで検索する
+
+## 例
+
+![example.png](docs/example.png)
