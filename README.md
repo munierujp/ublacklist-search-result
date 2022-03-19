@@ -13,6 +13,11 @@ https://iorate.github.io/ublacklist/subscribe?name=ublacklist-search-result&url=
 - その情報について知りたいから検索しているのに、別のサイトの検索結果ページに飛ばされるようなたらい回し状態は望ましくない
 - そのサイトの検索結果が見たければ、最初からそのサイトで検索する
 
+## 方針
+
+- `https://example.com/q=<検索ワード>`のようにURL内に検索ワードが含まれ、動的に生成されるようなページを対象とする
+- 私が普段検索していて遭遇次第追加していく
+
 ## 例
 
 ![example.png](docs/example.png)
