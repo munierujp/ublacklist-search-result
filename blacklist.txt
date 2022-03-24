@@ -8,6 +8,7 @@
 *://ch.nicovideo.jp/search/*
 *://d.hatena.ne.jp/keyword/*
 *://gramhir.com/explore-hashtag/*
+*://greatfon.com/t/*
 *://janestyle.net/search/*
 *://jp.mercari.com/search?*
 *://kakaku.com/search_results/*
