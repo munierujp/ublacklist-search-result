@@ -25,6 +25,7 @@
 *://search.kakaku.com/*
 *://search.rakuten.co.jp/*
 *://search.vector.co.jp/*
+*://search.yahoo.co.jp/*
 *://seiga.nicovideo.jp/tag/*
 *://suzuri.jp/search?*
 *://syosetu.org/search/*
