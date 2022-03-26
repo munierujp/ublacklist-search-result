@@ -2,6 +2,7 @@
 *://7net.omni7.jp/search/*
 *://anond.hatelabo.jp/keyword/*
 *://auctions.yahoo.co.jp/closedsearch/*
+*://auctions.yahoo.co.jp/search/*
 *://b.hatena.ne.jp/search/*
 *://beauty.hotpepper.jp/keyword/*
 *://buhitter.com/search?*
