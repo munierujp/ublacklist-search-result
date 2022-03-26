@@ -53,4 +53,5 @@
 *://www.tiktok.com/tag/*
 *://www.tumblr.com/tagged/*
 *://www.youtube.com/hashtag/*
+*://yomou.syosetu.com/search.php?*
 *://zozo.jp/search/*
