@@ -45,8 +45,9 @@
 *://www.nicovideo.jp/tag/*
 *://www.nicozon.net/tag/*
 *://www.npmjs.com/search?*
-*://www.praph.tokyo/tags/*
+*://www.photo-ac.com/main/search?*
 *://www.pixiv.net/tags/*
+*://www.praph.tokyo/tags/*
 *://www.tempstaff.co.jp/jbch/keyword/*
 *://www.tiktok.com/discover/*
 *://www.tiktok.com/tag/*
