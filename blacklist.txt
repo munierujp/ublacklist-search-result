@@ -28,6 +28,7 @@
 *://search.vector.co.jp/*
 *://search.yahoo.co.jp/*
 *://seiga.nicovideo.jp/tag/*
+*://shopping.yahoo.co.jp/search/*
 *://suzuri.jp/search?*
 *://syosetu.org/search/*
 *://tsutaya.tsite.jp/search/*
