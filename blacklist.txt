@@ -32,6 +32,7 @@
 *://shopping.yahoo.co.jp/search/*
 *://suzuri.jp/search?*
 *://syosetu.org/search/*
+*://togetter.com/t/*
 *://tsutaya.tsite.jp/search/*
 *://twitter.com/hashtag/*
 *://twitter.com/search?*
