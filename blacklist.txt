@@ -30,6 +30,7 @@
 *://search.yahoo.co.jp/*
 *://seiga.nicovideo.jp/tag/*
 *://shopping.yahoo.co.jp/search/*
+*://skeb.jp/search?*
 *://suzuri.jp/search?*
 *://syosetu.org/search/*
 *://togetter.com/t/*
