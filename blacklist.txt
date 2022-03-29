@@ -16,6 +16,7 @@
 *://kakuyomu.jp/search?*
 *://live.nicovideo.jp/search?*
 *://maho.jp/search?*
+*://maidonanews.jp/tag/*
 *://meyou.jp/search/*
 *://mobile.twitter.com/hashtag/*
 *://mobile.twitter.com/search?*
