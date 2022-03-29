@@ -36,6 +36,7 @@
 *://skeb.jp/search?*
 *://suzuri.jp/search?*
 *://syosetu.org/search/*
+*://tabi-labo.com/tag/*
 *://togetter.com/t/*
 *://tsutaya.tsite.jp/search/*
 *://twitter.com/hashtag/*
