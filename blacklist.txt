@@ -24,6 +24,7 @@
 *://news.yahoo.co.jp/search?*
 *://nicosearch.info/nicotagsearch.php?*
 *://note.com/hashtag/*
+*://npm.io/search/*
 *://qiita.com/tags/*
 *://search.inside-games.jp/*
 *://search.kakaku.com/*
