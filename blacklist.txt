@@ -25,6 +25,7 @@
 *://nicosearch.info/nicotagsearch.php?*
 *://note.com/hashtag/*
 *://npm.io/search/*
+*://pixiv.navirank.com/tag/*
 *://qiita.com/tags/*
 *://search.inside-games.jp/*
 *://search.kakaku.com/*
