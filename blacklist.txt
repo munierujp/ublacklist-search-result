@@ -55,6 +55,7 @@
 *://www.photo-ac.com/main/search?*
 *://www.pixiv.net/tags/*
 *://www.praph.tokyo/tags/*
+*://www.skypack.dev/search?*
 *://www.tempstaff.co.jp/jbch/keyword/*
 *://www.tiktok.com/discover/*
 *://www.tiktok.com/tag/*
