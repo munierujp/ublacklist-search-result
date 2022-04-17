@@ -15,6 +15,7 @@
 *://jp.mercari.com/search?*
 *://kakaku.com/search_results/*
 *://kakuyomu.jp/search?*
+*://kakuyomu.jp/tags/*
 *://live.nicovideo.jp/search?*
 *://maho.jp/search?*
 *://maidonanews.jp/tag/*
