@@ -63,6 +63,7 @@
 *://www.tiktok.com/discover/*
 *://www.tiktok.com/tag/*
 *://www.tumblr.com/tagged/*
+*://www.yamada-denkiweb.com/search/*
 *://www.youtube.com/hashtag/*
 *://yomou.syosetu.com/search.php?*
 *://zozo.jp/search/*
