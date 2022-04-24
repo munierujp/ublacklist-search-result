@@ -6,6 +6,7 @@
 *://auctions.yahoo.co.jp/search/*
 *://b.hatena.ne.jp/search/*
 *://beauty.hotpepper.jp/keyword/*
+*://blogtag.ameba.jp/detail/*
 *://buhitter.com/search?*
 *://ch.nicovideo.jp/search/*
 *://d.hatena.ne.jp/keyword/*
