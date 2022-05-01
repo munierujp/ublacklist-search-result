@@ -39,6 +39,7 @@
 *://shopping.yahoo.co.jp/ranking/keyword/*
 *://shopping.yahoo.co.jp/search/*
 *://skeb.jp/search?*
+*://sp.nicovideo.jp/tag/*
 *://suzuri.jp/search?*
 *://syosetu.org/search/*
 *://tabi-labo.com/tag/*
