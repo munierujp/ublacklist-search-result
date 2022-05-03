@@ -51,6 +51,7 @@
 *://wowma.jp/keyword/*
 *://www.askul.co.jp/ksearch/*
 *://www.cyzowoman.com/tag/*
+*://www.excite.co.jp/news/entertainment/tag/*
 *://www.felissimo.co.jp/keyword/*
 *://www.hmv.co.jp/search/*
 *://www.instagram.com/explore/tags/*
