@@ -6,7 +6,7 @@ SNSやショッピングサイトなどの検索結果ページを除外する�
 
 [uBlacklist](https://iorate.github.io/ublacklist/)をインストールし、[ブラックリストを購読](
 https://iorate.github.io/ublacklist/subscribe?name=ublacklist-search-result&url=https%3A%2F%2Fraw.githubusercontent.com%2Fmunierujp%2Fublacklist-search-result%2Fmaster%2Fblacklist.txt)してください。\
-上記のリンクが機能しなければ、以下のURLを手動で登録してください。
+上記のリンクが機能しない場合は、以下のURLを手動で登録してください。
 
 ```
 https://raw.githubusercontent.com/munierujp/ublacklist-search-result/master/blacklist.txt
