@@ -59,6 +59,7 @@
 *://www.felissimo.co.jp/keyword/*
 *://www.hmv.co.jp/search/*
 *://www.instagram.com/explore/tags/*
+*://www.komeri.com/search/*
 *://www.nicovideo.jp/tag/*
 *://www.nicozon.net/tag/*
 *://www.npmjs.com/search?*
