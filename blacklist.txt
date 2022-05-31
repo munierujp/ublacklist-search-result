@@ -14,6 +14,7 @@
 *://d.hatena.ne.jp/keyword/*
 *://gramhir.com/explore-hashtag/*
 *://greatfon.com/t/*
+*://imagenavi.jp/searchb/*
 *://janestyle.net/search/*
 *://jp.mercari.com/search?*
 *://kakaku.com/search_results/*
