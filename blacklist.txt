@@ -10,6 +10,7 @@
 *://buhitter.com/search?*
 *://ch.nicovideo.jp/search/*
 *://chiebukuro.yahoo.co.jp/search?*
+*://chiebukuro.yahoo.co.jp/tag/*
 *://comic-walker.com/keyword/*
 *://coromoo.com/search/*
 *://d.hatena.ne.jp/keyword/*
