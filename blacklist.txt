@@ -56,6 +56,7 @@
 *://twstalker.com/hashtag/*
 *://wowma.jp/keyword/*
 *://www.askul.co.jp/ksearch/*
+*://www.carsensor.net/usedcar/freeword/*
 *://www.cyzowoman.com/tag/*
 *://www.excite.co.jp/news/entertainment/tag/*
 *://www.felissimo.co.jp/keyword/*
