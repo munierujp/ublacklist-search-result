@@ -52,6 +52,7 @@
 *://tabi-labo.com/tag/*
 *://togetter.com/t/*
 *://tsutaya.tsite.jp/search/*
+*://tw.monstics.com/search.php?*
 *://twitter.com/hashtag/*
 *://twitter.com/search?*
 *://twstalker.com/hashtag/*
