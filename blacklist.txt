@@ -34,6 +34,7 @@
 *://nicosearch.info/nicotagsearch.php?*
 *://note.com/hashtag/*
 *://npm.io/search/*
+*://offerdos.com/twitter/tag/*
 *://pixiv.navirank.com/tag/*
 *://qiita.com/tags/*
 *://search.inside-games.jp/*
