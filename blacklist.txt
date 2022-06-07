@@ -49,6 +49,7 @@
 *://shopping.yahoo.co.jp/search/*
 *://skeb.jp/search?*
 *://sp.nicovideo.jp/tag/*
+*://sp.nijie.info/search.php?*
 *://suzuri.jp/search?*
 *://syosetu.org/search/*
 *://tabi-labo.com/tag/*
