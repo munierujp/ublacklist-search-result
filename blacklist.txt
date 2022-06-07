@@ -32,6 +32,7 @@
 *://news.yahoo.co.jp/search?*
 *://news.yahoo.co.jp/search/*
 *://nicosearch.info/nicotagsearch.php?*
+*://niji-gazo.com/keyword/*
 *://note.com/hashtag/*
 *://npm.io/search/*
 *://offerdos.com/twitter/tag/*
