@@ -71,6 +71,7 @@
 *://www.nicovideo.jp/tag/*
 *://www.nicozon.net/tag/*
 *://www.npmjs.com/search?*
+*://www.omni7.jp/search/*
 *://www.photo-ac.com/main/search?*
 *://www.pixiv.net/tags/*
 *://www.praph.tokyo/tags/*
