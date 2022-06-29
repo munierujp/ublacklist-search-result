@@ -78,6 +78,7 @@
 *://www.photo-ac.com/main/search?*
 *://www.pixiv.net/tags/*
 *://www.praph.tokyo/tags/*
+*://www.sanwa.co.jp/search/*
 *://www.skypack.dev/search?*
 *://www.tempstaff.co.jp/jbch/keyword/*
 *://www.tiktok.com/amp/tag/*
