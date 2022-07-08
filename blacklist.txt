@@ -65,7 +65,6 @@
 *://www.askul.co.jp/ksearch/*
 *://www.carsensor.net/usedcar/freeword/*
 *://www.cyzowoman.com/tag/*
-*://www.excite.co.jp/news/entertainment/tag/*
 *://www.excite.co.jp/news/*/tag/*
 *://www.famitsu.com/search/*
 *://www.felissimo.co.jp/keyword/*
