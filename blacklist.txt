@@ -21,6 +21,7 @@
 *://janestyle.net/search/*
 *://jp.mercari.com/search?*
 *://kakaku.com/search_results/*
+*://kakaku.com/tv/search/*
 *://kakuyomu.jp/search?*
 *://kakuyomu.jp/tags/*
 *://live.nicovideo.jp/search?*
