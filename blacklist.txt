@@ -42,6 +42,7 @@
 *://offerdos.com/twitter/tag/*
 *://pixiv.navirank.com/tag/*
 *://qiita.com/tags/*
+*://recochoku.jp/search/*
 *://remember.tokyo/feeds/hashtag/*
 *://search.inside-games.jp/*
 *://search.kakaku.com/*
