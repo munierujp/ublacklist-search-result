@@ -17,6 +17,7 @@
 *://d.hatena.ne.jp/keyword/*
 *://gramhir.com/explore-hashtag/*
 *://greatfon.com/t/*
+*://haken.rikunabi.com/kw/*
 *://imagenavi.jp/searchb/*
 *://janestyle.net/search/*
 *://jp.mercari.com/search?*
