@@ -50,6 +50,7 @@
 *://search.rakuten.co.jp/*
 *://search.vector.co.jp/*
 *://search.yahoo.co.jp/*
+*://seiga.nicovideo.jp/search/*
 *://seiga.nicovideo.jp/tag/*
 *://shopping.yahoo.co.jp/ranking/keyword/*
 *://shopping.yahoo.co.jp/search/*
