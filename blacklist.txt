@@ -65,6 +65,7 @@
 *://tw.monstics.com/search.php?*
 *://twitter.com/hashtag/*
 *://twitter.com/search?*
+*://twoucan.com/search?*
 *://twstalker.com/hashtag/*
 *://wowma.jp/keyword/*
 *://www.askul.co.jp/ksearch/*
