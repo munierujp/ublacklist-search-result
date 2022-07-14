@@ -2,6 +2,7 @@
 *://7gogo.jp/hashtags/*
 *://7net.omni7.jp/search/*
 *://anond.hatelabo.jp/keyword/*
+*://aucfan.com/search1/*
 *://auctions.yahoo.co.jp/closedsearch/*
 *://auctions.yahoo.co.jp/search/*
 *://b.hatena.ne.jp/search/*
