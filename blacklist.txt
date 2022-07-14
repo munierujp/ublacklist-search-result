@@ -95,6 +95,7 @@
 *://www.tiktok.com/discover/*
 *://www.tiktok.com/tag/*
 *://www.tumblr.com/tagged/*
+*://www.tvguide.or.jp/?s=*
 *://www.yamada-denkiweb.com/search/*
 *://www.youtube.com/hashtag/*
 *://xfolio.jp/search?*
