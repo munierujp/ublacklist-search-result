@@ -82,6 +82,7 @@
 *://www.npmjs.com/search?*
 *://www.omni7.jp/search/*
 *://www.photo-ac.com/main/search?*
+*://www.pixiv.net/tags.php?*
 *://www.pixiv.net/tags/*
 *://www.ponparemall.com/word/*
 *://www.praph.tokyo/tags/*
