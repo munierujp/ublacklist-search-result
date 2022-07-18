@@ -16,6 +16,7 @@
 *://comic-walker.com/keyword/*
 *://coromoo.com/search/*
 *://d.hatena.ne.jp/keyword/*
+*://ec.line.me/search?*
 *://gramhir.com/explore-hashtag/*
 *://greatfon.com/t/*
 *://haken.rikunabi.com/kw/*
