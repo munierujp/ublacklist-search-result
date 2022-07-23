@@ -19,6 +19,7 @@
 *://d.hatena.ne.jp/keyword/*
 *://ec.line.me/search?*
 *://encount.press/archives/tag/*
+*://fril.jp/amp/search/*
 *://gramhir.com/explore-hashtag/*
 *://greatfon.com/t/*
 *://haken.rikunabi.com/kw/*
