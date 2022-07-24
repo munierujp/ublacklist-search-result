@@ -69,6 +69,7 @@
 *://togetter.com/t/*
 *://tsutaya.tsite.jp/search/*
 *://tw.monstics.com/search.php?*
+*://twitsearch.net/search.php?*
 *://twitter.com/hashtag/*
 *://twitter.com/search?*
 *://twoucan.com/search?*
