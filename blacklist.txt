@@ -47,6 +47,7 @@
 *://npm.io/search/*
 *://offerdos.com/twitter/tag/*
 *://pixiv.navirank.com/tag/*
+*://pixta.jp/tags/*
 *://qiita.com/tags/*
 *://realsound.jp/tag/*
 *://recochoku.jp/search/*
