@@ -1,6 +1,7 @@
 *://*.facebook.com/hashtag/*
 *://7gogo.jp/hashtags/*
 *://7net.omni7.jp/search/*
+*://air-boo.jp/tag/*
 *://anond.hatelabo.jp/keyword/*
 *://aucfan.com/search1/*
 *://aucfan.com/search2/*
