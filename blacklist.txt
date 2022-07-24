@@ -35,6 +35,7 @@
 *://maho.jp/search?*
 *://maidonanews.jp/tag/*
 *://meyou.jp/search/*
+*://minkara.carview.co.jp/search/*
 *://mobile.twitter.com/hashtag/*
 *://mobile.twitter.com/search?*
 *://music.dmkt-sp.jp/search/*
