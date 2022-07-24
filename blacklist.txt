@@ -67,6 +67,7 @@
 *://suzuri.jp/search?*
 *://syosetu.org/search/*
 *://tabi-labo.com/tag/*
+*://tira.si/search/*
 *://togetter.com/t/*
 *://tsutaya.tsite.jp/search/*
 *://tw.monstics.com/search.php?*
