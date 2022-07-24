@@ -73,6 +73,7 @@
 *://twitter.com/search?*
 *://twoucan.com/search?*
 *://twstalker.com/hashtag/*
+*://w.atwiki.jp/aniwotawiki/tag/*
 *://wowma.jp/keyword/*
 *://www.askul.co.jp/ksearch/*
 *://www.baitoru.com/kw/*
