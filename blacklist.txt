@@ -49,6 +49,7 @@
 *://offerdos.com/twitter/tag/*
 *://pixiv.navirank.com/tag/*
 *://pixta.jp/tags/*
+*://prcm.jp/list/*
 *://qiita.com/tags/*
 *://realsound.jp/tag/*
 *://recochoku.jp/search/*
