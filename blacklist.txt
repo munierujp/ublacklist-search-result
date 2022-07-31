@@ -60,6 +60,7 @@
 *://search.yahoo.co.jp/*
 *://seiga.nicovideo.jp/search/*
 *://seiga.nicovideo.jp/tag/*
+*://shop-list.com/women/svc/product/Search/*
 *://shopping.yahoo.co.jp/ranking/keyword/*
 *://shopping.yahoo.co.jp/search/*
 *://skeb.jp/search?*
