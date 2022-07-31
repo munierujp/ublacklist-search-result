@@ -64,6 +64,7 @@
 *://shopping.yahoo.co.jp/ranking/keyword/*
 *://shopping.yahoo.co.jp/search/*
 *://skeb.jp/search?*
+*://snapmart.jp/photos?keyword=*
 *://sp.nicovideo.jp/tag/*
 *://sp.nijie.info/search.php?*
 *://stores.jp/hashtag/*
