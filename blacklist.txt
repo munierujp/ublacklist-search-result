@@ -9,6 +9,7 @@
 *://auctions.yahoo.co.jp/search/*
 *://b.hatena.ne.jp/search/*
 *://beauty.hotpepper.jp/keyword/*
+*://blogger.ameba.jp/hashtags/*
 *://blogtag.ameba.jp/detail/*
 *://blogtag.ameba.jp/news/*
 *://buhitter.com/search?*
