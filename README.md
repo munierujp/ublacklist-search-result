@@ -23,4 +23,4 @@ https://raw.githubusercontent.com/munierujp/ublacklist-search-result/master/blac
 
 ## 例
 
-![example.png](docs/example.png)
+![example.png](meta/example.png)
