@@ -12,6 +12,7 @@
 *://blogger.ameba.jp/hashtags/*
 *://blogtag.ameba.jp/detail/*
 *://blogtag.ameba.jp/news/*
+*://booth.pm/ja/search/*
 *://buhitter.com/search?*
 *://ch.nicovideo.jp/search/*
 *://chiebukuro.yahoo.co.jp/search?*
