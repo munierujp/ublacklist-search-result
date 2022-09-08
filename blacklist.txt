@@ -80,6 +80,7 @@
 *://tsutaya.tsite.jp/search/*
 *://tw.monstics.com/search.php?*
 *://tweets.wiltern.jp/?w=*
+*://twicomi.com/search/*
 *://twitsearch.net/search.php?*
 *://twitter.com/hashtag/*
 *://twitter.com/search?*
