@@ -71,6 +71,7 @@
 *://snapmart.jp/photos?keyword=*
 *://sp.nicovideo.jp/tag/*
 *://sp.nijie.info/search.php?*
+*://stackapps.com/questions/tagged/*
 *://stock.adobe.com/search/*
 *://stores.jp/hashtag/*
 *://suzuri.jp/search?*
