@@ -49,6 +49,7 @@
 *://noc.syosetu.com/search/*
 *://note.com/hashtag/*
 *://npm.io/search/*
+*://npms.io/search?*
 *://offerdos.com/twitter/tag/*
 *://pixiv.navirank.com/tag/*
 *://pixta.jp/tags/*
