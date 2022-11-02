@@ -128,4 +128,5 @@
 *://www.youtube.com/hashtag/*
 *://xfolio.jp/search?*
 *://yomou.syosetu.com/search.php?*
+*://zenn.dev/topics/*
 *://zozo.jp/search/*
