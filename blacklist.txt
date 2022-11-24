@@ -127,6 +127,7 @@
 *://www.userscript.zone/search?*
 *://www.yamada-denkiweb.com/search/*
 *://www.youtube.com/hashtag/*
+*://www.yukoyuko.net/kw/*
 *://xfolio.jp/search?*
 *://yomou.syosetu.com/search.php?*
 *://zenn.dev/topics/*
