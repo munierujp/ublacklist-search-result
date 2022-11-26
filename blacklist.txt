@@ -117,6 +117,7 @@
 *://www.ponparemall.com/word/*
 *://www.praph.tokyo/tags/*
 *://www.sanwa.co.jp/search/*
+*://www.shutterstock.com/ja/search/*
 *://www.skypack.dev/search?*
 *://www.tempstaff.co.jp/jbch/keyword/*
 *://www.tiktok.com/amp/tag/*
