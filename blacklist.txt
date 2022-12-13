@@ -52,6 +52,7 @@
 *://npm.io/search/*
 *://npms.io/search?*
 *://offerdos.com/twitter/tag/*
+*://omocoro.jp/tag/*
 *://pixiv.navirank.com/tag/*
 *://pixta.jp/tags/*
 *://prcm.jp/list/*
