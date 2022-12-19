@@ -43,6 +43,7 @@
 *://mobile.twitter.com/hashtag/*
 *://mobile.twitter.com/search?*
 *://music.dmkt-sp.jp/search/*
+*://news.google.co.jp/news/search?*
 *://news.yahoo.co.jp/search?*
 *://news.yahoo.co.jp/search/*
 *://nicosearch.info/nicotagsearch.php?*
