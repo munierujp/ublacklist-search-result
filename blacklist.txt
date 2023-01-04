@@ -116,6 +116,7 @@
 *://www.nicozon.net/tag/*
 *://www.npmjs.com/search?*
 *://www.omni7.jp/search/*
+*://www.orange-book.com/*/search/*
 *://www.photo-ac.com/main/search?*
 *://www.picuki.com/tag/*
 *://www.pixiv.net/tags.php?*
