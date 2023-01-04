@@ -22,6 +22,7 @@
 *://comic-walker.com/keyword/*
 *://coromoo.com/search/*
 *://d.hatena.ne.jp/keyword/*
+*://dbook.docomo.ne.jp/search/*
 *://ec.line.me/search?*
 *://encount.press/archives/tag/*
 *://fril.jp/amp/search/*
