@@ -110,6 +110,7 @@
 *://www.famitsu.com/search/*
 *://www.felissimo.co.jp/keyword/*
 *://www.hmv.co.jp/search/*
+*://www.ikioi2ch.net/search/*
 *://www.instagram.com/explore/tags/*
 *://www.komeri.com/search/*
 *://www.melonbooks.co.jp/search/*
