@@ -131,6 +131,7 @@
 *://www.sanwa.co.jp/search/*
 *://www.shutterstock.com/ja/search/*
 *://www.skypack.dev/search?*
+*://www.suruga-ya.jp/search?*
 *://www.tempstaff.co.jp/jbch/keyword/*
 *://www.tiktok.com/amp/tag/*
 *://www.tiktok.com/discover/*
