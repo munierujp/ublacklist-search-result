@@ -115,6 +115,7 @@
 *://www.ikioi2ch.net/search/*
 *://www.instagram.com/explore/tags/*
 *://www.komeri.com/search/*
+*://www.mandarake.co.jp/search/*
 *://www.melonbooks.co.jp/search/*
 *://www.nicovideo.jp/tag/*
 *://www.nicozon.net/tag/*
