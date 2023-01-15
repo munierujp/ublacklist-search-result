@@ -117,6 +117,7 @@
 *://www.komeri.com/search/*
 *://www.mandarake.co.jp/search/*
 *://www.melonbooks.co.jp/search/*
+*://www.nicotwitter.com/tag/*
 *://www.nicovideo.jp/tag/*
 *://www.nicozon.net/tag/*
 *://www.npmjs.com/search?*
