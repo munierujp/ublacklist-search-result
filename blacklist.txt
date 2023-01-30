@@ -81,6 +81,7 @@
 *://sp.nicovideo.jp/tag/*
 *://sp.nijie.info/search.php?*
 *://stackapps.com/questions/tagged/*
+*://staff.hatenablog.com/search?*
 *://stock.adobe.com/search?*
 *://stock.adobe.com/search/*
 *://stores.jp/hashtag/*
