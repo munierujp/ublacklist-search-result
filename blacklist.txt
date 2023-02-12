@@ -56,6 +56,7 @@
 *://niji-gazo.com/keyword/*
 *://noc.syosetu.com/search/*
 *://note.com/hashtag/*
+*://novel.prcm.jp/search/*
 *://npm.io/search/*
 *://npms.io/search?*
 *://offerdos.com/twitter/tag/*
