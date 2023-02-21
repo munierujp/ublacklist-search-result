@@ -86,6 +86,7 @@
 *://staff.hatenablog.com/search?*
 *://stock.adobe.com/search?*
 *://stock.adobe.com/search/*
+*://store.piascore.com/search?*
 *://stores.jp/hashtag/*
 *://suzuri.jp/search?*
 *://syosetu.org/search/*
