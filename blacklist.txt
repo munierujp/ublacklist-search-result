@@ -66,6 +66,7 @@
 *://prcm.jp/list/*
 *://qiita.com/tags/*
 *://realsound.jp/tag/*
+*://realtime.yahoo.co.jp/realtime/search?*
 *://recochoku.jp/search/*
 *://remember.tokyo/feeds/hashtag/*
 *://search.inside-games.jp/*
