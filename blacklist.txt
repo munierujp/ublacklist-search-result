@@ -119,6 +119,7 @@
 *://www.hmv.co.jp/search/*
 *://www.ikioi2ch.net/search/*
 *://www.instagram.com/explore/tags/*
+*://www.janpara.co.jp/sale/search/*
 *://www.komeri.com/search/*
 *://www.mandarake.co.jp/search/*
 *://www.melonbooks.co.jp/search/*
