@@ -74,6 +74,7 @@
 *://search.rakuten.co.jp/*
 *://search.vector.co.jp/*
 *://search.yahoo.co.jp/*
+*://seiga.nicovideo.jp/manga/tag/*
 *://seiga.nicovideo.jp/search/*
 *://seiga.nicovideo.jp/tag/*
 *://shop-list.com/women/svc/product/Search/*
