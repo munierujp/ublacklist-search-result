@@ -38,6 +38,7 @@
 *://kakaku.com/search_results/*
 *://kakaku.com/tv/search/*
 *://kakolog.jp/?q=*
+*://kakolog.jp/q/*
 *://kakuyomu.jp/search?*
 *://kakuyomu.jp/tags/*
 *://live.nicovideo.jp/search?*
