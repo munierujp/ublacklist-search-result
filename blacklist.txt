@@ -32,6 +32,7 @@
 *://gramhir.com/explore-hashtag/*
 *://greatfon.com/t/*
 *://haken.rikunabi.com/kw/*
+*://hands.net/search/*
 *://imagenavi.jp/searchb/*
 *://janestyle.net/search/*
 *://jp.mercari.com/search?*
