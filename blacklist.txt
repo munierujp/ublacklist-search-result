@@ -93,6 +93,7 @@
 *://store.piascore.com/search?*
 *://stores.jp/hashtag/*
 *://suzuri.jp/search?*
+*://suzuri.jp/search/*
 *://syosetu.org/search/*
 *://tabi-labo.com/tag/*
 *://tira.si/search/*
