@@ -119,6 +119,7 @@
 *://www.carsensor.net/usedcar/freeword/*
 *://www.cyzowoman.com/tag/*
 *://www.e-aidem.com/kwm/*
+*://www.eigeki.com/search?*
 *://www.excite.co.jp/news/*/tag/*
 *://www.famitsu.com/search/*
 *://www.felissimo.co.jp/keyword/*
