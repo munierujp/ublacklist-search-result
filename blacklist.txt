@@ -30,6 +30,7 @@
 *://fril.jp/amp/search/*
 *://furunavi.jp/Product/Search?*
 *://gramhir.com/explore-hashtag/*
+*://graphisoft.com/search/*
 *://greatfon.com/t/*
 *://haken.rikunabi.com/kw/*
 *://hands.net/search/*
