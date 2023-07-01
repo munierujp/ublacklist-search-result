@@ -126,6 +126,7 @@
 *://www.instagram.com/explore/tags/*
 *://www.irasutoya.com/search?*
 *://www.janpara.co.jp/sale/search/*
+*://www.joysound.com/web/search/*
 *://www.komeri.com/search/*
 *://www.mandarake.co.jp/search/*
 *://www.melonbooks.co.jp/search/*
