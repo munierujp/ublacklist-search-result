@@ -36,6 +36,7 @@
 *://imagenavi.jp/searchb/*
 *://janestyle.net/search/*
 *://jp.mercari.com/search?*
+*://jp.pinkoi.com/search?*
 *://kakaku.com/search_results/*
 *://kakaku.com/tv/search/*
 *://kakolog.jp/?q=*
