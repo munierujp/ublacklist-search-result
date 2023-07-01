@@ -128,6 +128,7 @@
 *://www.komeri.com/search/*
 *://www.mandarake.co.jp/search/*
 *://www.melonbooks.co.jp/search/*
+*://www.muji.com/jp/ja/store/search/*
 *://www.nicotwitter.com/tag/*
 *://www.nicovideo.jp/tag/*
 *://www.nicozon.net/tag/*
