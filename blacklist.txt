@@ -118,6 +118,7 @@
 *://www.askul.co.jp/ksearch/*
 *://www.baitoru.com/kw/*
 *://www.carsensor.net/usedcar/freeword/*
+*://www.cinematoday.jp/hashtag/*
 *://www.cyzowoman.com/tag/*
 *://www.e-aidem.com/kwm/*
 *://www.eigeki.com/search?*
