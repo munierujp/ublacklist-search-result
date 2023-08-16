@@ -133,6 +133,7 @@
 *://www.joysound.com/web/search/*
 *://www.komeri.com/search/*
 *://www.mandarake.co.jp/search/*
+*://www.mapcamera.com/search?*
 *://www.melonbooks.co.jp/search/*
 *://www.monotaro.com/s/q-*
 *://www.muji.com/jp/ja/store/search/*
