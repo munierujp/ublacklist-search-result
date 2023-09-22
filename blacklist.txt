@@ -46,6 +46,7 @@
 *://kakolog.jp/q/*
 *://kakuyomu.jp/search?*
 *://kakuyomu.jp/tags/*
+*://l-tike.com/search/*
 *://live.nicovideo.jp/search?*
 *://maho.jp/search?*
 *://maidonanews.jp/tag/*
