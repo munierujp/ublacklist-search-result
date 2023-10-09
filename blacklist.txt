@@ -93,6 +93,7 @@
 *://sp.nijie.info/search.php?*
 *://stackapps.com/questions/tagged/*
 *://staff.hatenablog.com/search?*
+*://stock.adobe.com/jp/search?*
 *://stock.adobe.com/search?*
 *://stock.adobe.com/search/*
 *://store.piascore.com/search?*
