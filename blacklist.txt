@@ -116,7 +116,6 @@
 *://w.atwiki.jp/aniwotawiki/tag/*
 *://wowma.jp/keyword/*
 *://www.ac-illust.com/main/search_result.php?*
-*://www.amazon.co.jp/*/s?*
 *://www.askul.co.jp/ksearch/*
 *://www.baitoru.com/kw/*
 *://www.carsensor.net/usedcar/freeword/*
