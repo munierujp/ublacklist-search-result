@@ -171,6 +171,7 @@
 *://www.yamada-denkiweb.com/search/*
 *://www.youtube.com/hashtag/*
 *://www.yukoyuko.net/kw/*
+*://www2.nhk.or.jp/learning/search/*
 *://xfolio.jp/search?*
 *://yomou.syosetu.com/search.php?*
 *://zenn.dev/topics/*
