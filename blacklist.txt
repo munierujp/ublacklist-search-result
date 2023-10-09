@@ -1,4 +1,3 @@
-*://*.facebook.com/hashtag/*
 *://7gogo.jp/hashtags/*
 *://7net.omni7.jp/search/*
 *://air-boo.jp/tag/*
