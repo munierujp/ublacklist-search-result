@@ -89,6 +89,7 @@
 *://snapmart.jp/photos?keyword=*
 *://sp.nicovideo.jp/tag/*
 *://sp.nijie.info/search.php?*
+*://sp.seiga.nicovideo.jp/tag/*
 *://stackapps.com/questions/tagged/*
 *://staff.hatenablog.com/search?*
 *://stock.adobe.com/jp/search?*
