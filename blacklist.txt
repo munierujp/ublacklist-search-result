@@ -108,6 +108,7 @@
 *://tweets.wiltern.jp/?w=*
 *://twfan.net/hashtag/*
 *://twicomi.com/search/*
+*://twiman.net/search?q=*
 *://twitsearch.net/search.php?*
 *://twitter.com/hashtag/*
 *://twitter.com/search?*
