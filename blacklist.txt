@@ -160,6 +160,7 @@
 *://www.sanwa.co.jp/search/*
 *://www.shutterstock.com/ja/search/*
 *://www.skypack.dev/search?*
+*://www.sotwe.com/hashtag/*
 *://www.suruga-ya.jp/search?*
 *://www.tempstaff.co.jp/jbch/keyword/*
 *://www.tiktok.com/amp/tag/*
