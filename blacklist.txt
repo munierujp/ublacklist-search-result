@@ -123,6 +123,7 @@
 *://www.ac-illust.com/main/search_result.php?*
 *://www.askul.co.jp/ksearch/*
 *://www.baitoru.com/kw/*
+*://www.bellemaison.jp/shop/app/catalog/list/*
 *://www.carsensor.net/usedcar/freeword/*
 *://www.cinematoday.jp/hashtag/*
 *://www.cyzowoman.com/tag/*
