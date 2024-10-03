@@ -152,6 +152,7 @@
 *://www.nitori-net.jp/ec/search/?*
 *://www.npmjs.com/search?*
 *://www.omni7.jp/search/*
+*://www.pakutaso.com/tag/*
 *://www.photo-ac.com/main/search?*
 *://www.picuki.com/tag/*
 *://www.pixiv.net/tags.php?*
