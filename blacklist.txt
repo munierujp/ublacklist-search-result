@@ -127,6 +127,7 @@
 *://www.bellemaison.jp/shop/app/catalog/list/*
 *://www.carsensor.net/usedcar/freeword/*
 *://www.cinematoday.jp/hashtag/*
+*://www.clubdam.com/karaokesearch/?*
 *://www.cyzowoman.com/tag/*
 *://www.e-aidem.com/kwm/*
 *://www.eigeki.com/search?*
