@@ -52,8 +52,6 @@
 *://maidonanews.jp/tag/*
 *://meyou.jp/search/*
 *://minkara.carview.co.jp/search/*
-*://mobile.twitter.com/hashtag/*
-*://mobile.twitter.com/search?*
 *://music.dmkt-sp.jp/search/*
 *://news.google.co.jp/news/search?*
 *://news.nicovideo.jp/tags/*
@@ -113,8 +111,6 @@
 *://twicomi.com/search/*
 *://twiman.net/search?q=*
 *://twitsearch.net/search.php?*
-*://twitter.com/hashtag/*
-*://twitter.com/search?*
 *://twoucan.com/search?*
 *://twstalker.com/hashtag/*
 *://video.fc2.com/search/*
