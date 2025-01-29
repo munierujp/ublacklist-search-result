@@ -7,6 +7,7 @@
 *://aucfan.com/search2/*
 *://auctions.yahoo.co.jp/closedsearch/*
 *://auctions.yahoo.co.jp/search/*
+*://b.hatena.ne.jp/q/*
 *://b.hatena.ne.jp/search/*
 *://beauty.hotpepper.jp/keyword/*
 *://blog.ss-blog.jp/_tag/*
