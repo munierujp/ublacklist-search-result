@@ -136,6 +136,7 @@
 *://www.janpara.co.jp/sale/search/*
 *://www.joysound.com/web/search/*
 *://www.komeri.com/search/*
+*://www.kosho.or.jp/products/search_list.php?search_word=*
 *://www.kurashiru.com/search?*
 *://www.mandarake.co.jp/search/*
 *://www.mapcamera.com/search?*
