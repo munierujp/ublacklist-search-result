@@ -122,6 +122,7 @@
 *://www.askul.co.jp/ksearch/*
 *://www.baitoru.com/kw/*
 *://www.bellemaison.jp/shop/app/catalog/list/*
+*://www.biccamera.com/bc/category/?q=*
 *://www.carsensor.net/usedcar/freeword/*
 *://www.cinematoday.jp/hashtag/*
 *://www.clubdam.com/karaokesearch/?*
