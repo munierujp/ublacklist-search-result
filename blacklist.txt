@@ -117,7 +117,6 @@
 *://twstalker.com/hashtag/*
 *://video.fc2.com/search/*
 *://w.atwiki.jp/aniwotawiki/tag/*
-*:///web-scooper.com/static/search.html?*
 *://wowma.jp/keyword/*
 *://www.ac-illust.com/main/search_result.php?*
 *://www.askul.co.jp/ksearch/*
