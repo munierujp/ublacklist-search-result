@@ -21,6 +21,6 @@ https://raw.githubusercontent.com/munierujp/ublacklist-search-result/master/blac
 
 - `https://example.com/search/?q=<検索ワード>`や`https://example.com/tag/<タグ>`のように、URL内に検索ワードやタグのようなものが含まれ、それらの値によって検索結果ページが動的に生成されるようなサイトを対象とする
 
-## 例
+## 使用例
 
 ![example.png](meta/example.png)
