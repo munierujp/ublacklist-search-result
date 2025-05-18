@@ -41,7 +41,6 @@
 *://jp.indeed.com/q-*
 *://jp.mercari.com/search?*
 *://jp.pinkoi.com/search?*
-*://jp.pornhub.com/video/search?*
 *://kakaku.com/search_results/*
 *://kakaku.com/tv/search/*
 *://kakolog.jp/?q=*
