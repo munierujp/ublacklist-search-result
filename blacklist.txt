@@ -112,7 +112,7 @@
 *://tweets.wiltern.jp/?w=*
 *://twfan.net/hashtag/*
 *://twicomi.com/search/*
-*://twiman.net/search?q=*
+*://twiman.net/search?*
 *://twitsearch.net/search.php?*
 *://twoucan.com/search?*
 *://twstalker.com/hashtag/*
