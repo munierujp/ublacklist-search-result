@@ -172,6 +172,7 @@
 *://www.tumblr.com/tagged/*
 *://www.tvguide.or.jp/?s=*
 *://www.userscript.zone/search?*
+*://www.xnxx.com/search/*
 *://www.yamada-denkiweb.com/search/*
 *://www.youtube.com/hashtag/*
 *://www.yukoyuko.net/kw/*
