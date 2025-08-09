@@ -21,6 +21,7 @@
 *://chiebukuro.yahoo.co.jp/search?*
 *://chiebukuro.yahoo.co.jp/tag/*
 *://comic-walker.com/keyword/*
+*://cookpad.com/jp/search/*
 *://cookpad.com/search/*
 *://coromoo.com/s/tag/*
 *://coromoo.com/search/*
