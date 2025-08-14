@@ -179,6 +179,7 @@
 *://www.youtube.com/hashtag/*
 *://www.yukoyuko.net/kw/*
 *://www2.nhk.or.jp/learning/search/*
+*://x.com/hashtag/*
 *://x.com/search?*
 *://xfolio.jp/search?*
 *://yomou.syosetu.com/search.php?*
