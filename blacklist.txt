@@ -109,6 +109,7 @@
 *://togetter.com/t/*
 *://tsutaya.tsite.jp/search/*
 *://tw.monstics.com/search.php?*
+*://tw.wav.tv/?q=*
 *://tweets.wiltern.jp/?w=*
 *://twfan.net/hashtag/*
 *://twicomi.com/search/*
