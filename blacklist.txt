@@ -72,6 +72,7 @@
 *://pixiv.navirank.com/tag/*
 *://pixta.jp/tags/*
 *://prcm.jp/list/*
+*://prtimes.jp/topics/keywords/*
 *://qiita.com/tags/*
 *://realsound.jp/tag/*
 *://realtime.yahoo.co.jp/realtime/search?*
