@@ -134,6 +134,7 @@
 *://www.eigeki.com/search?*
 *://www.famitsu.com/search/*
 *://www.felissimo.co.jp/keyword/*
+*://www.hatarako.net/kw/*
 *://www.hmv.co.jp/search/*
 *://www.ikioi2ch.net/search/*
 *://www.instagram.com/explore/tags/*
