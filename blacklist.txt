@@ -117,6 +117,7 @@
 *://twicomi.com/search/*
 *://twiman.net/search?*
 *://twitsearch.net/search.php?*
+*://twitter.com/hashtag/*
 *://twitter.com/search?*
 *://twoucan.com/search?*
 *://twstalker.com/hashtag/*
