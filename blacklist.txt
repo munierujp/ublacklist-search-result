@@ -39,6 +39,7 @@
 *://hands.net/search/*
 *://imagenavi.jp/searchb/*
 *://janestyle.net/search/*
+*://javpop.mov/ja/search/*
 *://jp.indeed.com/q-*
 *://jp.mercari.com/search?*
 *://jp.pinkoi.com/search?*
