@@ -45,6 +45,7 @@
 *://jp.pinkoi.com/search?*
 *://jp.pornhub.com/video/search?*
 *://jp.xmorex.com/search/videos/*
+*://jp.xszav2.com/search/*
 *://kakaku.com/search_results/*
 *://kakaku.com/tv/search/*
 *://kakolog.jp/?q=*
