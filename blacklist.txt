@@ -39,6 +39,7 @@
 *://haken.rikunabi.com/kw/*
 *://hands.net/search/*
 *://imagenavi.jp/searchb/*
+*://iret.media/tag/*
 *://janestyle.net/search/*
 *://javpop.mov/ja/search/*
 *://jp.indeed.com/q-*
