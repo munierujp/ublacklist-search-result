@@ -58,6 +58,7 @@
 *://live.nicovideo.jp/search?*
 *://maho.jp/search?*
 *://maidonanews.jp/tag/*
+*://memo.dayjournal.dev/tags/*
 *://meyou.jp/search/*
 *://minkara.carview.co.jp/search/*
 *://mseeeen.msen.jp/tags/*
