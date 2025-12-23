@@ -109,6 +109,7 @@
 *://suzuri.jp/search/*
 *://syosetu.org/search/*
 *://tabi-labo.com/tag/*
+*://tech.asahi.co.jp/tag/*
 *://tira.si/search/*
 *://togetter.com/t/*
 *://tsutaya.tsite.jp/search/*
