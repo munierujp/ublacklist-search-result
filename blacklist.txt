@@ -112,6 +112,7 @@
 *://syosetu.org/search/*
 *://tabi-labo.com/tag/*
 *://tech.asahi.co.jp/tag/*
+*://techplay.jp/blog/tag/*
 *://tira.si/search/*
 *://togetter.com/t/*
 *://tsutaya.tsite.jp/search/*
