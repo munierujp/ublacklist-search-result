@@ -58,6 +58,7 @@
 *://maidonanews.jp/tag/*
 *://meyou.jp/search/*
 *://minkara.carview.co.jp/search/*
+*://mseeeen.msen.jp/tags/*
 *://music.dmkt-sp.jp/search/*
 *://news.google.co.jp/news/search?*
 *://news.nicovideo.jp/tags/*
