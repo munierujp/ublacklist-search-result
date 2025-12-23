@@ -137,6 +137,7 @@
 *://www.cinematoday.jp/hashtag/*
 *://www.clubdam.com/karaokesearch/?*
 *://www.cyzowoman.com/tag/*
+*://www.docswell.com/tag/*
 *://www.e-aidem.com/kwm/*
 *://www.eigeki.com/search?*
 *://www.famitsu.com/search/*
