@@ -27,6 +27,7 @@
 *://coromoo.com/search/*
 *://d.hatena.ne.jp/keyword/*
 *://dbook.docomo.ne.jp/search/*
+*://dev.classmethod.jp/tags/*
 *://dic.pixiv.net/search?*
 *://ec.line.me/search?*
 *://encount.press/archives/tag/*
