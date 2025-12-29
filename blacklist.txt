@@ -82,6 +82,7 @@
 *://pixta.jp/tags/*
 *://prcm.jp/list/*
 *://prtimes.jp/topics/keywords/*
+*://pui.chichi-pui.com/illustration/posts/tags/*
 *://qiita.com/tags/*
 *://realsound.jp/tag/*
 *://realtime.yahoo.co.jp/realtime/search?*
