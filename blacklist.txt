@@ -1,6 +1,7 @@
 *://7gogo.jp/hashtags/*
 *://7net.omni7.jp/search/*
 *://adult.contents.fc2.com/search/*
+*://ai-ssr.com/posts/tags/*
 *://air-boo.jp/tag/*
 *://anond.hatelabo.jp/keyword/*
 *://aucfan.com/search1/*
