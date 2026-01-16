@@ -1,3 +1,5 @@
+[English](README.md) | **日本語**
+
 # ublacklist-search-result
 
 検索結果からSNSやショッピングサイトなどの検索結果ページを除外するための、uBlacklistのブラックリスト
