@@ -24,7 +24,3 @@ https://raw.githubusercontent.com/munierujp/ublacklist-search-result/master/blac
 - Targets sites where search result pages are dynamically generated based on values in the URL, such as search keywords or tags, for example:
   - `https://example.com/search/?q=<search-term>`
   - `https://example.com/tag/<tag>`
-
-## Example
-
-![example.png](meta/example.png)
