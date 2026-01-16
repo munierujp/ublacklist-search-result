@@ -1,6 +1,6 @@
 # ublacklist-search-result
 
-SNSやショッピングサイトなどの検索結果ページを除外するための、uBlacklistのブラックリスト
+検索結果からSNSやショッピングサイトなどの検索結果ページを除外するための、uBlacklistのブラックリスト
 
 ## 使い方
 
