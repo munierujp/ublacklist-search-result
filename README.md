@@ -1,3 +1,5 @@
+**English** | [日本語](README.ja.md)
+
 # ublacklist-search-result
 
 A uBlacklist blacklist for excluding SNS, shopping sites, and similar search result pages from search results
