@@ -2,7 +2,7 @@
 
 # ublacklist-search-result
 
-A uBlacklist blacklist for excluding SNS, shopping sites, and similar search result pages from search results
+🚫 A uBlacklist blacklist for excluding SNS, shopping sites, and similar search result pages from search results
 
 ## Usage
 
