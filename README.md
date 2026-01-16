@@ -6,13 +6,11 @@
 
 ## Usage
 
-Install [uBlacklist](https://iorate.github.io/ublacklist/) and [subscribe to the blacklist](
-https://iorate.github.io/ublacklist/subscribe?name=ublacklist-search-result&url=https%3A%2F%2Fraw.githubusercontent.com%2Fmunierujp%2Fublacklist-search-result%2Fmaster%2Fblacklist.txt).\
-If the link above does not work, please manually add the following URL:
-
-```
-https://raw.githubusercontent.com/munierujp/ublacklist-search-result/master/blacklist.txt
-```
+1. Install [uBlacklist](https://ublacklist.github.io/).
+2. [Subscribe to the blacklist](https://iorate.github.io/ublacklist/subscribe?name=ublacklist-search-result&url=https%3A%2F%2Fraw.githubusercontent.com%2Fmunierujp%2Fublacklist-search-result%2Fmaster%2Fblacklist.txt), or manually register the following URL in uBlacklist:  
+    ```
+    https://raw.githubusercontent.com/munierujp/ublacklist-search-result/master/blacklist.txt
+    ```
 
 ## Why?
 
