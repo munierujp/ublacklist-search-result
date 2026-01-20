@@ -80,6 +80,7 @@
 *://offerdos.com/twitter/tag/*
 *://omocoro.jp/tag/*
 *://pixiv.navirank.com/tag/*
+*://pixta.jp/footage/tags/*
 *://pixta.jp/tags/*
 *://prcm.jp/list/*
 *://prtimes.jp/topics/keywords/*
