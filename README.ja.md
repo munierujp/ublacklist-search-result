@@ -23,3 +23,7 @@
 - URL内に検索ワードやタグのようなものが含まれ、それらの値によって検索結果ページが動的に生成されるようなサイトを対象とする
   - `https://example.com/search/?q=<検索ワード>`
   - `https://example.com/tag/<タグ>`
+
+## 関連リポジトリ
+
+- [munierujp/ublacklist-qa](https://github.com/munierujp/ublacklist-qa)
