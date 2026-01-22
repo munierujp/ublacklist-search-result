@@ -22,3 +22,7 @@
 - Targets sites where search result pages are dynamically generated based on values in the URL, such as search keywords or tags, for example:
   - `https://example.com/search/?q=<search-term>`
   - `https://example.com/tag/<tag>`
+
+## Related Repositories
+
+- [munierujp/ublacklist-qa](https://github.com/munierujp/ublacklist-qa)
