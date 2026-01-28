@@ -140,6 +140,7 @@
 *://wowma.jp/keyword/*
 *://www.ac-illust.com/main/search_result.php?*
 *://www.askul.co.jp/ksearch/*
+*://www.avexnet.jp/search?*
 *://www.baitoru.com/kw/*
 *://www.bellemaison.jp/shop/app/catalog/list/*
 *://www.biccamera.com/bc/category/?q=*
