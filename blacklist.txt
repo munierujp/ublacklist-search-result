@@ -139,6 +139,7 @@
 *://web-scooper.com/static/search.html?*
 *://wowma.jp/keyword/*
 *://www.ac-illust.com/main/search_result.php?*
+*://www.animate-onlineshop.jp/products/list.php?*
 *://www.askul.co.jp/ksearch/*
 *://www.avexnet.jp/search?*
 *://www.baitoru.com/kw/*
