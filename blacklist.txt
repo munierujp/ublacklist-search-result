@@ -197,6 +197,7 @@
 *://www.tvguide.or.jp/?s=*
 *://www.userscript.zone/search?*
 *://www.xnxx.com/search/*
+*://www.xnxx.tv/search/*
 *://www.xvideos.com/tags/*
 *://www.yamada-denkiweb.com/search/*
 *://www.youtube.com/hashtag/*
