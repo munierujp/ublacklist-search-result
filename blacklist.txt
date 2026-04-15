@@ -196,6 +196,7 @@
 *://www.tiktok.com/tag/*
 *://www.tumblr.com/tagged/*
 *://www.tvguide.or.jp/?s=*
+*://www.ufret.jp/search.php?*
 *://www.userscript.zone/search?*
 *://www.xnxx.com/search/*
 *://www.xnxx.tv/search/*
