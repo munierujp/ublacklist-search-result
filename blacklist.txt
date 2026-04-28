@@ -15,6 +15,7 @@
 *://blogger.ameba.jp/hashtags/*
 *://blogtag.ameba.jp/detail/*
 *://blogtag.ameba.jp/news/*
+*://bokete.jp/boke/tag/*
 *://booklog.jp/tags/*
 *://booth.pm/ja/search/*
 *://buhitter.com/search?*
