@@ -148,6 +148,7 @@
 *://www.biccamera.com/bc/category/?q=*
 *://www.carsensor.net/usedcar/freeword/*
 *://www.cinematoday.jp/hashtag/*
+*://www.club-t.com/keyword/*
 *://www.clubdam.com/karaokesearch/?*
 *://www.cyzowoman.com/tag/*
 *://www.docswell.com/tag/*
