@@ -203,6 +203,7 @@
 *://www.xnxx.tv/search/*
 *://www.xvideos.com/tags/*
 *://www.yamada-denkiweb.com/search/*
+*://www.yomiuri-ryokou.co.jp/kw/*
 *://www.youtube.com/hashtag/*
 *://www.yukoyuko.net/kw/*
 *://www2.nhk.or.jp/learning/search/*
