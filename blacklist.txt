@@ -142,6 +142,7 @@
 *://www.ac-illust.com/main/search_result.php?*
 *://www.animate-onlineshop.jp/products/list.php?*
 *://www.askul.co.jp/ksearch/*
+*://www.askul.co.jp/lksearch/*
 *://www.avexnet.jp/search?*
 *://www.baitoru.com/kw/*
 *://www.bellemaison.jp/shop/app/catalog/list/*
