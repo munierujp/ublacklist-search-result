@@ -97,6 +97,7 @@
 *://search.rakuten.co.jp/*
 *://search.vector.co.jp/*
 *://search.yahoo.co.jp/*
+*://search-voi.0101.co.jp/freeword/*
 *://seiga.nicovideo.jp/manga/tag/*
 *://seiga.nicovideo.jp/search/*
 *://seiga.nicovideo.jp/tag/*
