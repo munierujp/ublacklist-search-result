@@ -32,6 +32,7 @@
 *://dev.classmethod.jp/tags/*
 *://dic.pixiv.net/search?*
 *://dmusic.docomo.ne.jp/search?*
+*://dmusic.docomo.ne.jp/search/*
 *://ebato-tech-blog.com/tags/*
 *://ec.line.me/search?*
 *://encount.press/archives/tag/*
